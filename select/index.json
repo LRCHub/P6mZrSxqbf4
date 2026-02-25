@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "The Mirror",
+  "base_artist": "Polo & Pan",
+  "createdAt": "2026-02-25T03:11:04.545682Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Burning the Mirror",
+      "artist": "Jedi Mind Tricks",
+      "has_synced": false,
+      "path": "select/01_Burning_the_Mirror_Jedi_Mind_Tricks.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "IN THE MIRROR 거울",
+      "artist": "Yaeji",
+      "has_synced": true,
+      "path": "select/02_IN_THE_MIRROR_거울_Yaeji.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Into The Mirror",
+      "artist": "Minus the Bear",
+      "has_synced": true,
+      "path": "select/03_Into_The_Mirror_Minus_the_Bear.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Man In The Mirror",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/04_Man_In_The_Mirror_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Man in the Mirror",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/05_Man_in_the_Mirror_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Mirror Conspiracy",
+      "artist": "Thievery Corporation",
+      "has_synced": true,
+      "path": "select/06_The_Mirror_Conspiracy_Thievery_Corporation.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Went to the Mirror",
+      "artist": "Todd Rundgren",
+      "has_synced": true,
+      "path": "select/07_I_Went_to_the_Mirror_Todd_Rundgren.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Headbanging In the Mirror",
+      "artist": "Ducktails",
+      "has_synced": true,
+      "path": "select/08_Headbanging_In_the_Mirror_Ducktails.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Look N The Mirror!",
+      "artist": "KA$HDAMI",
+      "has_synced": true,
+      "path": "select/09_Look_N_The_Mirror!_KA$HDAMI.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Saw It In The Mirror",
+      "artist": "ABBA",
+      "has_synced": true,
+      "path": "select/10_I_Saw_It_In_The_Mirror_ABBA.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Piggy in the Mirror",
+      "artist": "The Cure",
+      "has_synced": true,
+      "path": "select/11_Piggy_in_the_Mirror_The_Cure.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Little Lotte/The Mirror (Angel of Music)",
+      "artist": "Andrew Lloyd Webber feat. Simon Lee",
+      "has_synced": false,
+      "path": "select/12_Little_Lotte_The_Mirror_(Angel_of_Music)_Andrew_Lloyd_Webber_feat._Simon_Lee.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Man in the Mirror (Album Version)",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/13_Man_in_the_Mirror_(Album_Version)_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "In The Mirror",
+      "artist": "Field Music",
+      "has_synced": false,
+      "path": "select/14_In_The_Mirror_Field_Music.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The Mirror",
+      "artist": "Polo & Pan",
+      "has_synced": false,
+      "path": "select/pl_01_The_Mirror_Polo_&_Pan.txt"
+    }
+  ]
+}
